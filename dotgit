@@ -1,0 +1,2 @@
+##Searching for a file in all Git branches
+git log --all --name-only --pretty=format: | sort -u | grep _robot.php
