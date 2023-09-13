@@ -1,0 +1,2 @@
+alias lower="tr '[:upper:]' '[:lower:]'"
+git branch -a --contains
